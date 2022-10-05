@@ -1,0 +1,67 @@
+[
+  {
+    "nombre": "Chevrolet Cavalier ",
+    "imagen_card": "images/cars/sedan_cavalier.jpg",
+    "motor": "1.5 litros MFI DOHC con 107 hp y 104 lb-pie de par",
+    "transmision":"Manual y automática de 6 velocidades",
+    "capacidad":" 405 litros",
+    "precio":"$25 el dia"
+  },
+  {
+    "nombre": "Honda Civic ",
+    "imagen_card": "images/cars/civic_card.jpg",
+    "motor": "Atmosférico de 2.0 litros",
+    "transmision":"CVT",
+    "capacidad":" 419 litros ",
+    "precio":"$27 el dia"
+  },
+  {
+    "nombre": "Hyundai Elantra",
+    "imagen_card": "images/cars/elantra.jpg",
+    "motor": " 2.0 litros, 4 cilindros",
+    "transmision":"Automática Continuamente Variable IVT",
+    "capacidad":" 474 litros ",
+    "precio":"$30 el dia"
+  },
+  {
+    "nombre": "Kia Forte",
+    "imagen_card": "images/cars/forte.jpg",
+    "motor": "1.6 litros Turbo GDI con 201 hp",
+    "transmision":" Manual de 6 cambios",
+    "capacidad":" 433 litros ",
+    "precio":"$16 el dia"
+  },
+  {
+    "nombre": "Mazda3",
+    "imagen_card": "images/cars/mazda3.jpg",
+    "motor": " 2.5 litros de desplazamiento SkyActiv-G",
+    "transmision":"  Manual de 6 cambios y automática ",
+    "capacidad":" 452 litros ",
+    "precio":"$22 el dia"
+  },
+  {
+    "nombre": "Nissan Sentra",
+    "imagen_card": "images/cars/sentra.jpg",
+    "motor": "  2.0 litros 4 cilindros",
+    "transmision":"  Manual de 6 cambios CVT ",
+    "capacidad":" 466 litros ",
+    "precio":"$18 el dia"
+  },
+  {
+    "nombre": "Toyota Corolla ",
+    "imagen_card": "images/cars/corolla.jpg",
+    "motor": "1.8 litros y 4 cilindros",
+    "transmision":"  Manual de 6 velocidades, CVT ",
+    "capacidad":" 470 litros ",
+    "precio":"$19 el dia"
+  },
+  {
+    "nombre": "Volkswagen Jetta",
+    "imagen_card": "images/cars/jetta.jpg",
+    "motor": "1.4 litros y 4 cilindros TSI turbocargados",
+    "transmision":"  Manual de 6 velocidades ",
+    "capacidad":" 510 litros ",
+    "precio":"$28 el dia"
+  }
+  
+]
